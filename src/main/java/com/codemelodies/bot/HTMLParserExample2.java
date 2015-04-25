@@ -23,7 +23,7 @@ public class HTMLParserExample2 {
 				System.out.println("height : " + image.attr("height"));
 				System.out.println("width : " + image.attr("width"));
 				System.out.println("alt : " + image.attr("alt"));
-
+ 
 			}
 
 		} catch (IOException e) {
